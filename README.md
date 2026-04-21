@@ -4,18 +4,6 @@ An interactive, multi-page Power BI dashboard analyzing Amazon sales data across
 
 ---
 
-## 🖥️ Dashboard Preview
-
-| Overview | Product Performance |
-|----------|-------------------|
-| ![Overview](screenshots/overview.png) | ![Products](screenshots/products.png) |
-
-| Region | Operations |
-|--------|------------|
-| ![Region](screenshots/region.png) | ![Operations](screenshots/operations.png) |
-
----
-
 ## 📊 Key Metrics (All-Time)
 
 | Metric | Value |
